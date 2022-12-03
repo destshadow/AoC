@@ -9,7 +9,7 @@
     1) 7967 -> giusto al primo tentativo
 
     PARTE 2
-    1) 
+    1) 2716
 */
 
 std::vector<std::string> ReadFromFile(char *filename){
